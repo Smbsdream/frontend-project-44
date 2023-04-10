@@ -1,0 +1,19 @@
+{
+  "name": "@hexlet/code",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "First project for JS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "url": "git+https://github.com/Smbsdream/frontend-project-44.git"
+  },
+  "author": "Kirillov Aleksandr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Smbsdream/frontend-project-44/issues"
+  },
+  "homepage": "https://github.com/Smbsdream/frontend-project-44#readme"
+}
